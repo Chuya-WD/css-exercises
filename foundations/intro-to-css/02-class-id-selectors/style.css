@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odd{
+    background-color: rgb(241, 18, 26);
+    font-family: verdana, "Dejavu Sans", sans-serif;
+}
+#two{
+    color: #0000ff;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tree, .four{
+    font-size: 24px;
+}
+#four{
+    background-color: green;
+    font-weight: bold;
+}
